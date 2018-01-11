@@ -1,0 +1,30 @@
+
+Projects of solution:
+
+
+  I. ModuleHandler:
+      1) Simple console UI of the system
+      2) Example that implements an application of use
+      3) ModuleLoader.cs: implements reflection of modules and contains some auxiliary methods (application layer)
+      4) Module.cs: to create an instance that calls from modules (runtime layer)
+      6) ModuleChangeEvent: an extended FileSystemWatcher to catch modules on rename, delete, creation and update
+
+  II. IModule:
+      1) Shared project
+      2) ModuleTemplate.cs: Contains IModule interface. By implementing it you can create your own module.
+
+  III. Extension Module
+      1) Represents a module; IModule implementation
+      2) .Net DLL library project
+      3) Created as an example
+
+
+Usage:
+  - There's a convention implemented: the Module Handler only accepts DLLs with the following 'exension': .module.dll (later named as MODULE). It's purpose is to sedule any other .NET DLLs from these ones that we are going to use. Rename your built DLL to match the convention in order to successfully load it.
+  - To load a module, simply just drop the MODULE into the specified path (originally bin\Modules\).
+
+
+Tips:
+  - Open Example.cs and start Example.exe. Track what is happening in the application layer
+  - Try out module updating by moving ExtensionModule.module.dll(1) to a other forder and rename it to the ExtensionModule.module.dll. Then override the original file with the other one you just renamed. The module should reload automatically. NOTE: working diretory is 'bin\Modules'
+  - Implement threading within the module in order to produce optimal code

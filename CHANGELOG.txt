@@ -1,0 +1,13 @@
+Version Changelog:
+
+DQ Runtime 0.1.0 (BETA)
+    - Module Handler Library created: use in your application layer (OSI) to set up module operations
+    - IModule interface created: use to create modules
+    - Extension Module created: an example of use
+    - Created application layer example (Example.cs) with binary (Example.exe)
+    - Created two Extension Module binary to illustrate module reloading
+    - Created Licence
+    - Created README
+    - Created instructions documentation for help
+    - Visual Studio Project(s) and Solution(s) are also included
+    - Software released under DevQuarter Public Licence

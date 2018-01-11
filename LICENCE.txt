@@ -1,0 +1,72 @@
+
+Copyright (c) 2018, HAJDU COMP. KFT.
+All rights reserved.
+
+I. GENERAL INFORMATION
+    This software is released under DevQuarter Public Licence and follows the
+    latest version of this licence at all time, including changes.
+    This product includes software developed under trademark DEVQUARTER by the HAJDU COMP. Kft.
+    Distribution, modification, revision, conversation, orrection, alternation and copying of the
+    DevQuarter Public Licence is DENIED without the permission or request of the DevQuarter developers
+    or the owner HAJDU COMP. Kft.
+
+II. PERMISSIONS
+    Redistribution of source code and binary forms, with or without
+    modification, are PERMITTED provided that the following conditions are met:
+        1. Redistributions of source code must retain the above copyright
+        notice, this list of conditions, the disclaimer under and the following notice:
+        This software is released under DevQuarter Public Licence follows the
+        latest version of this licence at all time, including changes.
+
+        2. Redistributions in binary form must reproduce the above copyright
+        notice, the list of conditions and the disclaimer under within the
+        documentation and/or other materials provided with the distribution.
+
+        3. Redistributions of source code or binary form must be released under the
+        DevQuarter Public Licence and should follow the latest version of this
+        licence at all time, including changes that are not documented within
+        the Redistributed software.
+
+        4. All advertising materials mentioning features or use of this software
+        must display the following acknowledgement:
+        This product includes software developed under the trademark of DEVQUARTER and is provided by the HAJDU COMP. Kft.  
+
+        5. Neither the trademark DevQuarter or name of the HAJDU COMP. Kft. nor the
+        names of its contributors may be used to endorse or promote products
+        derived from this software without specific prior written permission.
+
+III. DENIES
+    Redistribution, copying, modification, researching the code including reading,
+    or using, downloading, sharing, advertising binary forms, with or without
+    modification are DENIED for the following conditions are met:
+        1. Any application of source code or binary forms listed above are DENIED for
+        the purpose of any military usage, including war activities, analyses, researching,
+        developing computer systems or for organizations who would like to merchandise
+        this software with military or for organizations are cooperating with and working for
+        military purposes. The list is not finite, any application in connection with military is denied.
+        In addition, these conditions are also applied for intelligence agencies (e.g. CIA, FSB, CIRO, MSS, VAJA, TEK).
+        List for examples could be found here: https://en.wikipedia.org/wiki/List_of_intelligence_agencies
+        Attention: This list is not finite!
+
+        2. Any application of source code or binary forms listed above are DENIED for
+        the purpose of any hazardous, insulting, harmful, damaging, deceptive and illegal
+        activities like hacking, cracking, information gathering and stealing,
+        unsolicited crypto-valute gathering, creating botnet, resource stealing,
+        identity stealing, threating etc. The list is not finite, any application
+        that known commonly known as BAD or EVIL.
+
+        3. Any application of source code or binary forms listed above are DENIED for
+        political purposes, including campaigning, electing, application at goverments.
+        Only applications at public service organizations still PERMITTED.
+
+IV. DISCLAMIER
+    THIS SOFTWARE IS PROVIDED BY HANDU COMP. KFT. ''AS IS''
+    AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+    THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+    DISCLAIMED. IN NO EVENT SHALL HAJDU COMP. KFT. BE LIABLE FOR ANY
+    DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+    (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+    LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+    ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+    (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
